@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb6f0927-4d39-4465-b187-49971c07c5d8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Find_Missing_Element.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Largest_Continuous_Sum.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -14,17 +14,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/DataSructures_Algorithms$Missing_Parameter.coverage" NAME="Missing Parameter Coverage Results" MODIFIED="1506144884104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataSructures_Algorithms$Missing_Parameter.coverage" NAME="Largest Coverage Results" MODIFIED="1506147007568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Find_Missing_Element.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Find_Missing_Element.py">
+      <file leaf-file-name="Largest_Continuous_Sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Largest_Continuous_Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <marker date="1506147007000" expanded="true" signature="571:874" ph="..." />
               </folding>
             </state>
           </provider>
@@ -49,6 +49,7 @@
         <option value="$PROJECT_DIR$/Anagram.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Find_Missing_Element.py" />
+        <option value="$PROJECT_DIR$/Largest_Continuous_Sum.py" />
       </list>
     </option>
   </component>
@@ -114,8 +115,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Missing Parameter">
-    <configuration name="Missing Parameter" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.Largest">
+    <configuration name="Largest" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -128,7 +129,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DataSructures_Algorithms" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Find_Missing_Element.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Largest_Continuous_Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +220,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="29" />
+      <option name="time" value="34" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -281,10 +282,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Find_Missing_Element.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Largest_Continuous_Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <marker date="1506147007000" expanded="true" signature="571:874" ph="..." />
           </folding>
         </state>
       </provider>
