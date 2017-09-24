@@ -1,1 +1,1 @@
-********__**__******
+These are few common exercises containing multiple solutions
