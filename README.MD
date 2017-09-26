@@ -1,1 +1,1 @@
-These are few common exercises containing multiple solutions
+These are few common exercises containing multiple solutions for Common Data structures and Algorithms problems.
